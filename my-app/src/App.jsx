@@ -1,5 +1,5 @@
 import React from 'react';
-import FetchData from './Components/Fetchdata';
+import FetchData from './FetchData.jsx';
 
 function App(){
   return(
