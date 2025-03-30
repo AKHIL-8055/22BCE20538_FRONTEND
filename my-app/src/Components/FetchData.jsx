@@ -1,7 +1,7 @@
 
 
 import { useState, useEffect } from "react";
-import styles from "./Fetchdata.module.css"; // Import the CSS module
+import styles from "./FetchData.module.css";
 
 function FetchData() {
   const [hits, setHits] = useState([]);
